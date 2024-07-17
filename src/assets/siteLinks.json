@@ -20,9 +20,9 @@
     "link": "https://satania.work/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.satania.work/"
   },
   {
     "icon": "Fire",
@@ -30,8 +30,8 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://web.imsyy.top/"
   }
 ]
