@@ -40,14 +40,14 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 const changeBg = (type) => {
   if (type == 0) {
     bgUrl.value = `/images/background${bgRandom}.jpg`;
+  } else if (type == 1) {
+    bgUrl.value = "https://img.paulzzh.com/touhou/random";
   } else if (type == 2) {
-    bgUrl.value = "https://api.dujin.org/bing/1920.php";
+    bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
   } else if (type == 3) {
     bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
   } else if (type == 4) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
-  } else if (type == 1) {
-    bgUrl.value = "https://img.paulzzh.com/touhou/random";
+    bgUrl.value = "https://api.dujin.org/bing/1920.php";
   }
 };
 
